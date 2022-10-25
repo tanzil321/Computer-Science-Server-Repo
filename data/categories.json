@@ -1,0 +1,53 @@
+[
+  {
+    "_id": 1,
+    "time":4,
+    "picture": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "rating": 5,
+    "course_name": "Computer Science degree",
+    "course_details":"Computer science degrees generally aim to teach you the basic mathematical and scientific concepts behind computers and their programs. A degree in computer science can have you designing software and hardware, learning programming languages, data structures, and artificial intelligence concepts. Computer science degrees might require mathematics, statistics, or engineering courses."
+  },
+  {
+    "_id": 2,
+    "time":3,
+    "picture": "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "rating": 5,
+    "course_name": "Engineering degree",
+    "course_details":"Most universities in the United States and Europe award the Bachelor of Science Engineering (B.Sc.Eng.), Bachelor of Engineering (B.Eng.), Bachelor of Engineering Science (B.Eng.Sc.), Bachelor of Science in Engineering (B.S.E.) or Bachelor of Applied Science (B.A.Sc.) degree to undergraduate students of engineering study."
+  },
+  {
+    "_id": 3,
+    "time":2,
+    "picture": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "rating": 4,
+    "course_name": "Information technology",
+    "course_details":"Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data. Typically, IT is used in the context of business operations, as opposed to technology used for personal or entertainment purposes. The commercial use of IT encompasses both computer technology and telecommunications."
+  },
+  {
+    "_id": 4,
+    "time":2,
+    "picture": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "rating": 4,
+    "course_name": "Computer Programming for bachelor",
+    "course_details":"A bachelor's in computer programming prepares graduates for a variety of careers in the fast-growing field of computer and information technology. By developing programming and analytical skills, graduates are positioned to take on roles as computer programmers, web developers and information security analysts."
+
+  },
+  {
+    "_id": 5,
+    "time":4,
+    "picture": "https://images.unsplash.com/photo-1608452964553-9b4d97b2752f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "rating": 3,
+    "course_name": "Comple Webdevelopment",
+    "course_details":"Go from no-code to an in-demand junior web developer, at a fraction of the cost of a bootcamp. Start with the front-end by learning HTML, CSS, and JavaScript. Then, master the back-end and APIs to round out your full-stack skills."
+    
+  },
+  {
+    "_id": 6,
+    "time":2,
+    "picture": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "rating": 3,
+    "course_name": "Graphics Design",
+    "course_details":"A growing library of video lessons & examples. With 25 lessons available now, and more added every few months.So for interface designers, UI engineers and developers who’d love to be prepared for complex UX challenges."
+  }
+  
+]
