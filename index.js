@@ -6,7 +6,9 @@ const catagories = require('./data/categories.json')
 app.use(cors());
 
 
-
+app.get('/',(req,res)=>{
+    res.send(catagories)
+});
 app.get('/categories/:id',(req,res)=>{
     const id = req.params.id
     const selectedCourse = catagories.find(n=>
