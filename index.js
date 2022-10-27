@@ -7,13 +7,17 @@ app.use(cors());
 
 
 app.get('/',(req,res)=>{
-    res.send(catagories)
+    res.send('This is site')
 });
 app.get('/categories/:id',(req,res)=>{
     const id = req.params.id
     const selectedCourse = catagories.find(n=>
         n._id==id)
     res.send(selectedCourse)
+})
+
+app.get('/categories',(req,res)=>{
+    res.send(catagories)
 })
 
 
